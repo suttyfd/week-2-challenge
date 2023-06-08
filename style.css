@@ -1,27 +1,29 @@
 h1{
-    background-color: #dcabab;
+    background-color: #82bcdd;
     padding: 20px;
     border-radius: 5px;
     margin-bottom: 15px;
-    border: 2px solid #e6e6e6;
+    border: 2px solid  #6c1212;
     box-shadow: 0 0 5px #353030;
+}
+
+.container{
+   
+    
 }
 
 .container1
 {
-    display: flex;
-    flex-direction: vertical;
-    height: auto;
-    width: 100%;
-    position: relative;
-    margin-top: 20px;
+    margin-right
+    /* margin: 3rem auto; */
+
     
 }
 h2{
-    background-color: #dcabab;
-    padding: 20px;
+    background-color: #a4a0bc;
+    padding: 10px;
     border-radius: 5px;
     margin-bottom: 15px;
-    border: 2px solid #e6e6e6;
+    border: 2px solid #6c1515;
     box-shadow: 0 0 5px #353030;
 }
