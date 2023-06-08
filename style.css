@@ -7,18 +7,15 @@ h1{
     box-shadow: 0 0 5px #353030;
 }
 
-.container{
-   
-    
+.container1 ul li{
+
+    float: right;
+    display: inline-flex;
+    margin: 0 10px;
 }
 
-.container1
 
-{
-   
 
-    
-}
 h2{
     background-color: #a4a0bc;
     padding: 10px;
